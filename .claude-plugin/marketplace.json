@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "aleos",
+  "owner": {
+    "name": "Alexander Ostrovsky"
+  },
+  "metadata": {
+    "description": "Claude plugins by Alexander Ostrovsky."
+  },
+  "plugins": [
+    {
+      "name": "decision-docs",
+      "source": "./plugins/decision-docs"
+    }
+  ]
+}

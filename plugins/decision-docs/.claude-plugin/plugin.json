@@ -1,0 +1,10 @@
+{
+  "name": "decision-docs",
+  "displayName": "Decision docs",
+  "description": "Keep a project's decisions, research, open questions and current state in a docs folder, with MADR decision records, agent rules that make agents consult them, and a script that checks them.",
+  "author": {
+    "name": "Alexander Ostrovsky"
+  },
+  "repository": "https://github.com/aleos/claude-plugins",
+  "license": "MIT"
+}
