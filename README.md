@@ -34,7 +34,7 @@ Plugins work on the paid plans, in chat on the web, the Chat tab in Claude Deskt
 
 ## Updates
 
-A plugin from this marketplace updates when you update the marketplace: run `/plugin marketplace update aleos`. To get updates automatically instead, open `/plugin`, go to **Marketplaces**, select `aleos` and select **Enable auto-update**.
+Each plugin carries a version, and a new version reaches you when you update the marketplace: run `/plugin marketplace update aleos`. To get updates automatically instead, open `/plugin`, go to **Marketplaces**, select `aleos` and select **Enable auto-update**.
 
 ## Using decision-docs
 
